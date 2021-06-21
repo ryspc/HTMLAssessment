@@ -1,3 +1,3 @@
 # HTMLAssessment
 
-HTML assessment posted to fullfill SkillDistillery requirement.
+HTML and CSS assessments posted to fullfill SkillDistillery requirement.
