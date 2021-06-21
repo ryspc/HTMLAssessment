@@ -1,0 +1,70 @@
+
+body {
+  background-color: #8bb9d6;
+}
+
+/* User Story 1 */
+.subjectHeader {
+  font-family: sans-serif;
+  color: #150da8;
+}
+
+/* User Story 2 */
+#scoreBoard {
+  font-weight: bold;
+  color: #3c3885;
+  border: 2px solid black;
+  text-align: center;
+}
+
+/* User Story 3 */
+ul {
+  list-style-type: square;
+}
+
+/* User Story 4 */
+a:hover {
+  text-decoration: none;
+  background-color: #dbaa46;
+}
+
+/* User Story 5 */
+blockquote {
+  background-color: #3c3885;
+}
+em {
+  color: #ffe5a3;
+}
+
+/* User Story 6 */
+img {
+  position: relative;
+  top: 80px;
+  left: 80px;
+  opacity: 0.35;
+  height: 50px;
+  z-index: -1;
+  list-style-type: none;
+}
+
+/* User Story 7 */
+#checkbox-grid {
+  list-style-type: none;
+}
+
+/* Strech Goals */
+ol li:first-child {
+  font-weight: bold;
+}
+
+#scoreBoard {
+  background: #f2d166;
+ }
+tr:nth-child(odd) {
+   background: #679aeb;
+ }
+
+ #teamRoster {
+   position: relative;
+   bottom: 30px;
+ }
